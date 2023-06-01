@@ -1,0 +1,5 @@
+# Whenever you've added a new file to your folder or have made changes to an existing file, be sure to push to your online repository. To do so, run the following commands in a terminal or command line:
+
+git add *
+git commit -m "some message here"
+git push
